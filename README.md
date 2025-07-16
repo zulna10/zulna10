@@ -16,6 +16,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/zulna10/zulna10/output/snake.svg" alt="Snake animation" />
-
-###
